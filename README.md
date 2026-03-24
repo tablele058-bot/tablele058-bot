@@ -24,6 +24,4 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tablele058-bot&icon=0&color=0" alt="Visitor Count" />
-</p>
+
