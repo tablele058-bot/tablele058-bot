@@ -17,11 +17,3 @@
 ### ☁️ Database & Tools
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Analytics:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tablele058-bot&theme=dark&show_icons=true&hide_border=false" alt="Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tablele058-bot&theme=dark&layout=compact&hide_border=false" alt="Language Distribution" />
-</p>
-
----
-
