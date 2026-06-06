@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 **Hello! I'm Thrilok**, a dedicated Computer Science Engineering student focused on building robust full-stack applications and exploring systems-level programming.
 
-* 🎓 **Education:** 2nd Year CSE Diploma Student at Government Institute of Electronics (GIOE), Secunderabad.
+* 🎓 **Education:** 3rd Year CSE Diploma Student at Government Institute of Electronics (GIOE), Secunderabad.
 * 🚀 **Technical Interests:** Full-stack Web Development, Artificial Intelligence integration, and OS Architecture.
 * 🌱 **Current Learning:** Advanced Data Structures, C++ Systems Programming, and Next.js optimization.
 * 💬 **Expertise:** JavaScript/TypeScript ecosystem, React, Node.js, and Cloud Infrastructure.
