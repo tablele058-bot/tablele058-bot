@@ -6,6 +6,10 @@
 * 🌱 **Current Learning:** Advanced Data Structures, C++ Systems Programming, and Next.js optimization.
 * 💬 **Expertise:** JavaScript/TypeScript ecosystem, React, Node.js, and Cloud Infrastructure.
 
+## 🌐 Portfolio
+
+[Visit My Portfolio](https://profile-phi-three-30.vercel.app)
+
 # 💻 Technical Skills:
 
 ### 🌐 Frontend & Frameworks
