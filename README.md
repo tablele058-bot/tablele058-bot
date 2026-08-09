@@ -53,7 +53,14 @@
 
 ### 📊 GitHub Contributions
 
-![GitHub Contributions](https://ghchart.rshah.org/tablele058-bot)
+<table>
+  <tr>
+    <td><img src="https://ghchart.rshah.org/tablele058-bot" alt="GitHub Contribution Graph" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=tablele058-bot&show_icons=true&theme=radical&hide_border=true&icon_color=66d9ef&title_color=66d9ef" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
