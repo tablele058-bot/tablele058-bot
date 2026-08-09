@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vodapeli Thrilok 👋</h1>
 
-<h3 align="center">Junior Software Engineer | Full-Stack & Cloud Enthusiast</h3>
+<h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
 <p align="center">
   <a href="https://thrilok.vercel.app" target="_blank">Portfolio</a> •
@@ -51,11 +51,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contribution Graph
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tablele058-bot&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tablele058-bot&layout=compact&theme=radical&hide_border=true)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tablele058-bot&theme=redical&hide_border=true&color=66d9ef)
 
 ---
 
