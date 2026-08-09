@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vodapeli Thrilok 👋</h1>
+<h1 align="center">Hi, Iam Vodapelli Thrilok 👋</h1>
 
 <h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
