@@ -51,9 +51,9 @@
 
 ---
 
-### 📊 GitHub Contribution Graph
+### 📊 GitHub Contributions
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tablele058-bot&theme=redical&hide_border=true&color=66d9ef)
+![GitHub Contributions](https://ghchart.rshah.org/tablele058-bot)
 
 ---
 
