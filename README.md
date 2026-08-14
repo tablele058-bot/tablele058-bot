@@ -6,12 +6,11 @@
 <h3 align="center">Computer Science Student • Aspiring Software Engineer • AI & Full-Stack Builder</h3>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&color=7b2ff7&background=0d1117&lines=Building+web+apps+%26+AI+tools;Diploma+CSE+%40+GIOE+Secunderabad;Full-Stack+%7C+Cloud+%7C+Open+Source;Always+learning%2C+always+shipping" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&color=7b2ff7&background=0d1117&lines=Building+web+apps+%26+AI+tools;Diploma+CSE+student+%40+Hyderabad;Full-Stack+%7C+Cloud+%7C+Open+Source;Always+learning%2C+always+shipping" alt="typing" />
 
 <!-- Academic & Location Badges -->
 <p>
   <img src="https://img.shields.io/badge/Diploma-CSE-7b2ff7?style=for-the-badge&logo=github&logoColor=white" alt="diploma" />
-  <img src="https://img.shields.io/badge/GIOE-Secunderabad-9d4edd?style=for-the-badge&logo=github&logoColor=white" alt="college" />
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-7b2ff7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
 </p>
 
@@ -256,7 +255,11 @@ A Python project focused on practical scripting and automation utilities.
 
 [![Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=7b2ff7&label=Repositories&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftablele058-bot&query=public_repos)](https://github.com/tablele058-bot?tab=repositories)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tablele058-bot&theme=react-dark&bg_color=0d1117&color=7b2ff7&line=9d4edd&point=ffffff&area=true&hide_border=true" alt="activity" />
+<img src="https://github-readme-stats.vercel.app/api?username=tablele058-bot&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0d1117&hide_border=true&rank_icon=github" alt="stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tablele058-bot&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tablele058-bot&custom_title=Contribution%20Graph&theme=react-dark&bg_color=0d1117&color=7b2ff7&line=9d4edd&point=ffffff&hide_border=true&grid=true" alt="activity-graph" />
 
 </div>
 
