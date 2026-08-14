@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5a623,100:7b2ff7&height=220&section=header&text=Vodapelli%20Thrilok&fontSize=42&fontAlign=50&fontAlignY=38" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5a623,100:7b2ff7&height=220&section=header&text=Vodapelli%20Thrilok&fontSize=42&fontAlign=50&fontAlignY=38?v=2" alt="header" />
 
 <h3 align="center">Computer Science Student • Aspiring Software Engineer • AI & Full-Stack Builder</h3>
 
@@ -370,7 +370,7 @@ open_to:
 <div align="center">
 
 <!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7b2ff7,100:f5a623&height=120&section=footer&text=Thanks%20for%20visiting%20-%20let's%20build%20something%20cool&fontSize=20&fontColor=ffffff" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7b2ff7,100:f5a623&height=120&section=footer&text=Thanks%20for%20visiting%20-%20let's%20build%20something%20cool&fontSize=20&fontColor=ffffff?v=2" alt="footer" />
 
 *"Code is the closest thing we have to a superpower. Keep shipping."*
 
