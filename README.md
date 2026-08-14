@@ -292,8 +292,6 @@ exploring:
   - Cloud deployment pipelines
 
 open_to:
-  - Software Engineering Internships
-  - AI/ML Internships
   - Open-Source Collaboration
 ```
 
