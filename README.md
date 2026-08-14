@@ -1,16 +1,15 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5a623,100:7b2ff7&height=220&section=header&text=Vodapelli%20Thrilok&fontSize=42&fontAlign=50&fontAlignY=38?v=2" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5a623,100:7b2ff7&height=220&section=header&text=Thrilok%20Vodapelli&fontSize=42&fontAlign=50&fontAlignY=38?v=2" alt="header" />
 
 <h3 align="center">Computer Science Student • Aspiring Software Engineer • AI & Full-Stack Builder</h3>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&color=7b2ff7&background=0d1117&lines=Building+web+apps+%26+AI+tools;Diploma+CSE+student+%40+Hyderabad;Full-Stack+%7C+Cloud+%7C+Open+Source;Always+learning%2C+always+shipping" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&color=7b2ff7&background=0d1117&lines=Building+web+apps+%26+AI+tools;Based+in+Hyderabad%2C+India;Full-Stack+%7C+Cloud+%7C+Open+Source;Always+learning%2C+always+shipping" alt="typing" />
 
-<!-- Academic & Location Badges -->
+<!-- Location Badge -->
 <p>
-  <img src="https://img.shields.io/badge/Diploma-CSE-7b2ff7?style=for-the-badge&logo=github&logoColor=white" alt="diploma" />
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-7b2ff7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
 </p>
 
@@ -28,7 +27,7 @@
 
 ## 👤 About Me
 
-I'm **Vodapelli Thrilok**, a Computer Science diploma student at **GIOE, Secunderabad (2024–2027)**, based in **Hyderabad, India**. I build and ship practical **web applications** and **AI-powered tools**, with a growing focus on full-stack development, cloud, and open-source.
+I'm **Thrilok Vodapelli**, a Computer Science student based in **Hyderabad, India**. I build and ship practical **web applications** and **AI-powered tools**, with a growing focus on full-stack development, cloud, and open-source.
 
 - 💻 **Software Engineering** — designing and shipping end-to-end web apps with clean, maintainable code.
 - 🤖 **AI / ML** — integrating models, translators, and intelligent features into real products.
