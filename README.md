@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5a623,100:7b2ff7&height=220&section=header&text=Vodapelli%20Thrilok&fontSize=42&fontAlign=50&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Builder&descAlign=50&descAlignY=55&animation=twinkling" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5a623,100:7b2ff7&height=220&section=header&text=Vodapelli%20Thrilok&fontSize=42&fontAlign=50&fontAlignY=38" alt="header" />
+
+<h3 align="center">Computer Science Student • Aspiring Software Engineer • AI & Full-Stack Builder</h3>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&color=7b2ff7&background=0d1117&lines=Building+web+apps+%26+AI+tools;Diploma+CSE+%40+GIOE+Secunderabad;Full-Stack+%7C+Cloud+%7C+Open+Source;Always+learning%2C+always+shipping" alt="typing" />
@@ -368,7 +370,7 @@ open_to:
 <div align="center">
 
 <!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7b2ff7,100:f5a623&height=120&section=footer&text=Thanks%20for%20visiting%20—%20let's%20build%20something%20cool&fontSize=20&fontColor=ffffff&animation=fadeIn" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7b2ff7,100:f5a623&height=120&section=footer&text=Thanks%20for%20visiting%20-%20let's%20build%20something%20cool&fontSize=20&fontColor=ffffff" alt="footer" />
 
 *"Code is the closest thing we have to a superpower. Keep shipping."*
 
