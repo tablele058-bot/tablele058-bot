@@ -23,20 +23,11 @@
   <a href="https://github.com/tablele058-bot" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
-<!-- Profile Metrics -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=tablele058-bot&label=Profile%20Views&color=7b2ff7&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/tablele058-bot?label=Followers&style=for-the-badge&color=9d4edd" alt="followers" />
-  <img src="https://img.shields.io/github/stars/tablele058-bot?label=Stars&style=for-the-badge&color=7b2ff7" alt="stars" />
-</p>
-
 </div>
 
 ---
 
 ## 👤 About Me
-
-<img align="right" src="https://komarev.com/ghpvc/?username=tablele058-bot&label=Visitor&color=7b2ff7&style=flat-square" alt="visitor" width="120" />
 
 I'm **Vodapelli Thrilok**, a Computer Science diploma student at **GIOE, Secunderabad (2024–2027)**, based in **Hyderabad, India**. I build and ship practical **web applications** and **AI-powered tools**, with a growing focus on full-stack development, cloud, and open-source.
 
@@ -45,8 +36,6 @@ I'm **Vodapelli Thrilok**, a Computer Science diploma student at **GIOE, Secunde
 - 🌐 **Full-Stack Development** — from responsive frontends to APIs, databases, and deployment.
 - 🚀 **Product Mindset** — I build things people can actually use, not just demos.
 - 📚 Currently learning **C, C++, Python, AWS**, and **full-stack web development**.
-
-**📌 Open To:** Software Engineering Internships · AI/ML Internships · Open-Source Collaboration · Freelance Web Development
 
 ---
 
@@ -248,28 +237,6 @@ A Python project focused on practical scripting and automation utilities.
 
 ---
 
-## 🎓 Certifications & Learning
-
-> Replace these with your real earned certifications as you complete them.
-
-<div align="center">
-
-**AWS**  
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" /> <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20(Pursuing)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws2" />
-
-**Oracle**  
-<img src="https://img.shields.io/badge/Oracle-OCI%20(Pursuing)-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
-
-**NPTEL**  
-<img src="https://img.shields.io/badge/NPTEL-Programming%20(Pursuing)-0066CC?style=for-the-badge&logo=bookstack&logoColor=white" alt="nptel" />
-
-**Cisco**  
-<img src="https://img.shields.io/badge/Cisco-Networking%20(Pursuing)-1BA0C9?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco" />
-
-</div>
-
----
-
 ## 👨‍💻 Coding Profiles
 
 <div align="center">
@@ -287,19 +254,12 @@ A Python project focused on practical scripting and automation utilities.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tablele058-bot&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=7b2ff7&icon_color=c77dff&text_color=ffffff&border_radius=10" height="180" alt="stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tablele058-bot&theme=react&hide_border=true&background=0d1117&stroke=7b2ff7&ring=7b2ff7&fire=7b2ff7&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border_radius=10" height="180" alt="streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tablele058-bot&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=7b2ff7&text_color=ffffff&border_radius=10" height="180" alt="langs" />
+[![Repositories](https://img.shields.io/github/repo-count/tablele058-bot?style=for-the-badge&logo=github&color=7b2ff7)](https://github.com/tablele058-bot?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/tablele058-bot?style=for-the-badge&logo=github&color=9d4edd)](https://github.com/tablele058-bot?tab=followers)
+[![Following](https://img.shields.io/github/following/tablele058-bot?style=for-the-badge&logo=github&color=7b2ff7)](https://github.com/tablele058-bot?tab=following)
+[![Total Stars](https://img.shields.io/github/stars/tablele058-bot?style=for-the-badge&logo=github&color=9d4edd)](https://github.com/tablele058-bot?tab=stars)
 
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tablele058-bot&theme=onestar&column=7&margin-w=15&margin-h=15&no-frame=true&bg_color=0d1117&title_color=7b2ff7)](https://github-profile-trophy.vercel.app/?username=tablele058-bot)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tablele058-bot&theme=react-dark&bg_color=0d1117&color=7b2ff7&line=9d4edd&point=ffffff&area=true&hide_border=true" alt="activity" />
 
 </div>
 
@@ -371,7 +331,5 @@ open_to:
 
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7b2ff7,100:f5a623&height=120&section=footer&text=Thanks%20for%20visiting%20-%20let's%20build%20something%20cool&fontSize=20&fontColor=ffffff?v=2" alt="footer" />
-
-*"Code is the closest thing we have to a superpower. Keep shipping."*
 
 </div>
