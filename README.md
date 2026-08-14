@@ -255,11 +255,6 @@ A Python project focused on practical scripting and automation utilities.
 <div align="center">
 
 [![Repositories](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=7b2ff7&label=Repositories&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftablele058-bot&query=public_repos)](https://github.com/tablele058-bot?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/tablele058-bot?style=for-the-badge&logo=github&color=9d4edd)](https://github.com/tablele058-bot?tab=followers)
-[![Following](https://img.shields.io/github/following/tablele058-bot?style=for-the-badge&logo=github&color=7b2ff7)](https://github.com/tablele058-bot?tab=following)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=tablele058-bot&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&rank_icon=percentile)](https://github.com/tablele058-bot)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tablele058-bot&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&langs_count=8)](https://github.com/tablele058-bot)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tablele058-bot&theme=react-dark&bg_color=0d1117&color=7b2ff7&line=9d4edd&point=ffffff&area=true&hide_border=true" alt="activity" />
 
